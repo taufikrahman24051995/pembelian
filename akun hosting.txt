@@ -1,0 +1,10 @@
+user dan pass website
+user : it-pembelian
+pass : it-pembelian
+
+database pembelian
+nama db : id16657248_pembelian
+user : id16657248_itpembelian
+pass : ITkomputer_24
+
+Link : https://it-pembelian.000webhostapp.com/pages/login.php
